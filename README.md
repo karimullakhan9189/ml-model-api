@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 Iris Classifier – ML Inference API
 
 A production-ready **FastAPI** application that serves a trained **scikit-learn Random Forest** model for Iris flower classification, fully containerised with **Docker**.
@@ -220,3 +221,7 @@ docker stop iris-api && docker rm iris-api
 ## 📄 License
 
 MIT
+=======
+# ml-model-api
+Step-by-step ML model serving with FastAPI + Docker — from training to containerized deployment with REST endpoints.
+>>>>>>> 9cb9d443eae1f97949ba2ec9bfb803483a213ad2
