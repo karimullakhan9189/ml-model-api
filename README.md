@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌸 Iris Classifier – ML Inference API
 
 A production-ready **FastAPI** application that serves a trained **scikit-learn Random Forest** model for Iris flower classification, fully containerised with **Docker**.
